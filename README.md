@@ -35,5 +35,5 @@ _A collection of Cypress automation tests demonstrating best practices for UI & 
 
 ## 📞 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fernando-moura-andrade-2072a2161/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fernando-moura-andrade-2072a2161/)  
 📧 **Email:** fernand0@protonmail.com
